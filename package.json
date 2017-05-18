@@ -1,0 +1,18 @@
+{
+  "name": "triangulator",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "UNLICENSED",
+  "contributors": [
+    "Mark Ryan Satt <ryansatt@gmail.com>"
+  ],
+  "scripts": {
+    "test": "jasmine triangle.spec.js"
+  },
+  "devDependencies": {
+    "make-runnable": "1.1.1"
+  }
+}
